@@ -44,3 +44,15 @@
 .about h1 {
     text-align: center;
 }
+
+.service {
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    height: 400px;
+    background-image: url(img/s_image.jpg);
+}
+
+.service p {
+    margin-top: 10px;
+}
