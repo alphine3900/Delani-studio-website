@@ -75,4 +75,21 @@
 .col-md-4 {
     padding-left: 180px;
 }
+.port h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.port {
+    height: 700px;
+    margin-left: 100px;
+    padding-top: 80px;
+    margin-right: 2px;
+}
+
+.port img {
+    padding-left: 10px;
+}
+
+
 
