@@ -1,0 +1,13 @@
+.p1 {
+    background-image: url('img/h_img.jpg');
+    background-size: cover;
+    height: 700px;
+}
+
+.p1 p {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: 35px;
+    margin-right: -10px;
+}
