@@ -112,6 +112,61 @@
     margin-left: 200px;
     color: white;
 }
+.footer {
+    margin-left: 400px;
+    margin-top: 30px;
+}
+footer p {
+    margin-left: 450px;
+}
+
+#last {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    /* width:80%; */
+    color: white;
+    background: transparent;
+}
+
+#design {
+    display: none;
+}
+
+.alignDesign {
+    text-align: center;
+    /* padding-top: -250px; */
+}
+
+.boldDesign {
+    font-weight: bold;
+    text-align: center;
+}
+#development{
+    display: none;
+
+}
+.alignDevelopment{
+    text-align: center;
+}
+.boldDevelopment{
+    font-weight: bold;
+    text-align: center;
+}
+#product{
+    display: none;
+}
+.boldProduct{
+    font-weight: bold;
+    text-align: center;
+}
+.alignProduct{
+    text-align: center;
+}
+
+
 
 
 
