@@ -11,3 +11,20 @@
     margin-top: 35px;
     margin-right: -10px;
 }
+#logo {
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+.font {
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    margin-top: -50px;
+}
+
+#mouse {
+    margin-left: 600px;
+    padding-top: 153px;
+}
+
