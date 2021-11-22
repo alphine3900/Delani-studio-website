@@ -90,6 +90,34 @@
 .port img {
     padding-left: 10px;
 }
+#contact {
+    background-image: url(img/c_image.jpg);
+    height: 600px;
+}
+
+#contact h1 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+.col-md-6 {
+    background-color: transparent;
+}
+
+#txt {
+    background: transparent;
+    margin-left: 200px;
+    color: white;
+}
+
+
+
+
+
+
 
 
 
