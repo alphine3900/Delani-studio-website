@@ -1,5 +1,18 @@
 $(document).ready(function() {
 
+    $('.port').on(
+        {
+            mouseover:function(){
+            $("#showme").show()
+            $("#showme").addClass("ports")
+            },
+            mouseout:function(){
+                $("#showme").hide()   
+            }
+        }
+    )
+
+
     $("#designImage").click(function() {
         $("#design").show(2000)
         $("#designImage").hide(2000)
@@ -9,14 +22,14 @@ $(document).ready(function() {
      $("#developmentImage").click(function() {
         $("#development").show(2000)
         $("#developmentImage").hide(2000)
-        $("#development").addClass("alignDesign")
-        $("span").addClass("boldDesign")
+        $("#development").addClass("alignDevelopment")
+        $("span").addClass("boldDevelopment")
     }) 
     $("#productImage").click(function() {
         $("#product").show(2000)
         $("#productImage").hide(2000)
-        $("#product").addClass("alignDesign")
-        $("span").addClass("boldDesign")
+        $("#product").addClass("alignProduct")
+        $("span").addClass("boldPesign")
     })
 
 
